@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ehap Mohammed</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -10,15 +11,15 @@ gained communication and negotiation skills , good speaker as former back Custom
 former back technical support specialist supporting & handling issues , trainer at Weghat project for users ( Students - Teachers - Coaches ) .
 promoted as a Software Tester .
 
+
 - 💬 Ask me about ** Front End , HTML5 , CSS3 , Bootstrap , javascript , Jquery , React.js .
 
 - 📫 How to reach me **ehapmohammad97@gmail.com**
 
 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
