@@ -62,6 +62,10 @@ promoted as a Software Tester .
  
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EhapMohammed&show_icons=true&locale=en&layout=compact" alt="EhapMohammed" /></p>
 <br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=EhapMohammed&show_icons=true&locale=en" alt="EhapMohammed" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhapMohammed)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EhapMohammed&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EhapMohammed)
